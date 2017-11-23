@@ -1,0 +1,11 @@
+_id,category_id,category_name,question,choice1,choice2,choice3,choice4,answer,explanation
+81,9,Planet,The Sun is mostly made up of,Hydrogen,Helium,Metals,Oxygen,1,"The Sun is made up for 75% Hydrogen, 25% of Helium and less than 0.1% of various metals"
+82,9,Planet,Estimated diameter of the Sun is around,"10,581,763 km","139,822 km","116,464 km","1,391,684 km",4,"The estimated diameter of Sun is 1,391,684 as of 2015 and it is mostly made up of Gas"
+83,9,Planet,Estimated diameter of the Earth is around,"12,742 km","116,464 km","6,779 km","50,724 km",1,NA
+84,9,Planet,How far the Earth is located from the Sun,"149,600,000 km","778,500,000 km","108,200,000 km","1,433,000,000 km",1,NA
+85,9,Planet,Total number of Moons identified for the planet Jupitor is,3,127,63,27,3,NA
+86,9,Planet,The estimated temperatue at Pluto is,-233 to -223 Celsius,-145 to -150 Celsius,-125 to 20 Celsius,-173 to 427 Celsius,1,NA
+87,9,Planet,Which is the second Asian country launched satellite on Mars orbit,Japan,India,China,Russia,2,NA
+88,9,Planet,Who is said to be the second man landed on Moon,Neil Armstrong,Edwin Buzz Aldrin,Charles Pete Conrad,Alan L. Bean,2,NA
+89,9,Planet,Which country launched Curiosity for Mars mission,U.S.A,Russia,India ,China,1,NA
+90,9,Planet,Which country launched Mangalyan for Mars mission,India ,U.S.A ,Russia,England,1,NA
