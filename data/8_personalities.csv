@@ -1,11 +1,10 @@
-_id,category_id,category_name,question,choice1,choice2,choice3,choice4,answer,explanation
-71,8,Personalities,Who is the father of Geometry?,Aristotle,Euclid,Pythagoras,Kepler,2,NA
-72,8,Personalities,What is common between Kutty Shankar Laxman and Sudhir Dar?,Film Direction,Drawing Cartoons,Instrumental Music,Classical Dance,2,NA
-73,8,Personalities,Who was known as Iron man of India?,Govind Ballabh Pant,Jawaharlal Nehru,Subhash Chandra Bose,Sardar Vallabhbhai Patel,4,NA
-74,8,Personalities,The Indian to beat the computers in mathematical wizardry is,Ramanujam,Rina Panigrahi,Raja Ramanna,Shakunthala Devi,4,NA
-75,8,Personalities,Jude Felix is a famous Indian player in which of the fields?,Volleyball,Tennis,Football,Hockey,4,NA
-76,8,Personalities,Who among the following was an eminent painter?,Sarada Ukil,Uday Shanker,V. Shantaram,Meherally,1,NA
-77,8,Personalities,Professor Amartya Sen is famous in which of the fields?,Biochemistry,Electronics,Economics,Geology,3,NA
-78,8,Personalities,Which of the following was Satyajit Ray associated with?,Classical music,Commercial art,Film Direction,Classical dance,3,NA
-79,8,Personalities,Dr. Joon Lew of korea the recipient of international Gandhi Award is known for his service in the?,Eradication of leprosy,Campaigning against AIDS,Against Drugs,Against child labour,1,NA
-80,8,Personalities,Amjad Ali Khan is associated with which of the following musical instruments?,Sarod,Veena,Violin,Sitar,1,NA
+71,8,Personalities,Who is the father of Geometry?,Aristotle,Euclid,Pythagoras,Kepler,2,NA,
+72,8,Personalities,What is common between Kutty Shankar Laxman and Sudhir Dar?,Film Direction,Drawing Cartoons,Instrumental Music,Classical Dance,2,NA,
+73,8,Personalities,Who was known as Iron man of India?,Govind Ballabh Pant,Jawaharlal Nehru,Subhash Chandra Bose,Sardar Vallabhbhai Patel,4,NA,
+74,8,Personalities,The Indian to beat the computers in mathematical wizardry is,Ramanujam,Rina Panigrahi,Raja Ramanna,Shakunthala Devi,4,NA,
+75,8,Personalities,Jude Felix is a famous Indian player in which of the fields?,Volleyball,Tennis,Football,Hockey,4,NA,
+76,8,Personalities,Who among the following was an eminent painter?,Sarada Ukil,Uday Shanker,V. Shantaram,Meherally,1,NA,
+77,8,Personalities,Professor Amartya Sen is famous in which of the fields?,Biochemistry,Electronics,Economics,Geology,3,NA,
+78,8,Personalities,Which of the following was Satyajit Ray associated with?,Classical music,Commercial art,Film Direction,Classical dance,3,NA,
+79,8,Personalities,Dr. Joon Lew of korea the recipient of international Gandhi Award is known for his service in the?,Eradication of leprosy,Campaigning against AIDS,Against Drugs,Against child labour,1,NA,
+80,8,Personalities,Amjad Ali Khan is associated with which of the following musical instruments?,Sarod,Veena,Violin,Sitar,1,NA,
